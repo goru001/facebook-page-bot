@@ -54,7 +54,7 @@ all the messages sent to them.
 
 (a). Fill out the information,after runnning:
   
-              $ python script.py
+              $ python start.py
               
 You will be asked about ::
      
