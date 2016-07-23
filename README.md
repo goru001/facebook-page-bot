@@ -3,7 +3,6 @@
 ####Introduction
 
 This repository will help you set-up your own Facebook-page-Bot, which you can use to receive all the messages that are sent to
-
 your Facebook-Page, via sms, for free! This is super-useful for those who don't like wasting time on facebook, but want to get
 
 all the messages sent to them.  
