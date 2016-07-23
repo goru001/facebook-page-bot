@@ -1,6 +1,6 @@
-// Please Fill out Following info that you got while creating facebook page
-PAGE_ACCESS_TOKEN = 
-VERIFICATION_TOKEN = 
+// Please Fill out Following info that you got while creating facebook page.
+//	PAGE_ACCESS_TOKEN = 
+//	VERIFICATION_TOKEN = 
 
 
 var express = require('express');
