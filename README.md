@@ -14,7 +14,6 @@ all the messages sent to them.
 
               SignUp for an account on www.modulus.io . Get your LOGIN and PASSWORD. 
               
-  if you don't get any error, then congratulations, we've set up server space for our project.
   
 
 ######2. Way2SMS account(www.way2sms.com)
